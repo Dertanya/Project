@@ -1,0 +1,7 @@
+C:\Users\Samso\source\repos\Samsonov_Lr14_KB24_TxPrZS\x64\Debug\Samsonov_Lr14_KB24_TxPrZS.vcxproj.AssemblyReference.cache
+C:\Users\Samso\source\repos\Samsonov_Lr14_KB24_TxPrZS\x64\Debug\Samsonov_Lr14_KB24_TxPrZS.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Samso\source\repos\Samsonov_Lr14_KB24_TxPrZS\x64\Debug\SamsonovLr14KB24TxPrZS.authorization.resources
+C:\Users\Samso\source\repos\Samsonov_Lr14_KB24_TxPrZS\x64\Debug\Samsonov_Lr14_KB24_TxPrZS.vcxproj.GenerateResource.cache
+C:\Users\Samso\source\repos\Samsonov_Lr14_KB24_TxPrZS\x64\Debug\Samsonov_Lr14_KB24_TxPrZS.exe
+C:\Users\Samso\source\repos\Samsonov_Lr14_KB24_TxPrZS\x64\Debug\SamsonovLr14KB24TxPrZS.registration.resources
+C:\Users\Samso\source\repos\Samsonov_Lr14_KB24_TxPrZS\x64\Debug\SamsonovLr14KB24TxPrZS.Find_team.resources

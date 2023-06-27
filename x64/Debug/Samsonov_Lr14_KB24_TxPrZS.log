@@ -1,0 +1,7 @@
+﻿  Class.cpp
+C:\Users\Samso\source\repos\Samsonov_Lr14_KB24_TxPrZS\Class.cpp(88,9): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Users\Samso\source\repos\Samsonov_Lr14_KB24_TxPrZS\Class.cpp(84,9): warning C4101: Xint: неиспользованная локальная переменная
+C:\Users\Samso\source\repos\Samsonov_Lr14_KB24_TxPrZS\Class.cpp(84,6): warning C4101: i: неиспользованная локальная переменная
+C:\Users\Samso\source\repos\Samsonov_Lr14_KB24_TxPrZS\Class.cpp(122,23): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  authorization.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Samsonov_Lr14_KB24_TxPrZS.vcxproj -> C:\Users\Samso\source\repos\Samsonov_Lr14_KB24_TxPrZS\x64\Debug\Samsonov_Lr14_KB24_TxPrZS.exe
